@@ -1,0 +1,7 @@
+Does it fly?
+/Is it a mammal?
+\Is it cute?
+//Is it a pig?
+\\Is it a pig?
+/\Is it a pig?
+\/Is it a pig?
